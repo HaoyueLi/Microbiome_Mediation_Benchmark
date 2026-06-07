@@ -1,6 +1,6 @@
 # Microbiome Mediation Project
 
-This is the github repository for reproducing the simulations performed in the paper "Detecting and Quantifying Mediation of Health Outcomes by Microbial Communities" (Li, Accorsi, et al., 2026)
+This is the github repository for reproducing the simulations and data analysis performed in the paper "Detecting and Quantifying Mediation of Health Outcomes by Microbial Communities" (Li, Accorsi, et al., 2026).
 
 - Scripts under the `simulation` folder were used to run simulations.
 
